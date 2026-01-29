@@ -49,3 +49,5 @@ python test_BadNets.py --dataset CIFAR10  --number_class 10 --model_name resnet 
 ```
 
 ---
+## Acknowledge
+This repository is built upon and borrow heavily from https://github.com/THUYimingLi/BackdoorBox, we acknowledge a lot to their contribution.
